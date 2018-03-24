@@ -1,0 +1,7 @@
+# marauders2018
+
+**Mission Statement**
+            
+The current energy climate in Canada and the United States is heavily reliant on the concept of centralized generation facilities. These facilities are commonly decades old and are connected to a network of high voltage power lines that distribute energy to end users, often hundreds of kilometres away. These systems are commonly dependent on non-renewable and environmentally unfriendly energy sources. They are also notoriously susceptible to power outages and are expensive to maintain; not to mention the end user must pay for transmission and distribution fees for transporting the energy. The shortcomings of the modern Canadian energy system to adapt to advanced technologies has left the door wide open for new, innovative ideas.
+
+Decentralized energy (a.k.a. distributed or on-site generation) is a modern electrical generation strategy with a simple core concept: generate energy where it is needed. This is a feasible strategy for any community, especially with the recent advances and subsequent price drops in renewable energy. Decentralized energy is also highly resilient as it  functions autonomously in localized areas. This means that any power outages on the central grid will not leave communities connected to a microgrid without power. Our app seeks to show the potential and feasibility of decentralized energy when applied to a prominent Canadian city: Calgary, Alberta.

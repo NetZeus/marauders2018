@@ -1,14 +1,14 @@
-Goals of App
+**Goals of App**
 
-1.       Demonstrate the potential of decentralized energy in Calgary, with each DA as it’s own micro gridded system, to help promote a future of renewable energy in Canada.
-2.        Provide estimates of the number of solar panels that can be installed per building, their output in kilowatt hours, the Return of Investment and the total solar energy produced by DA. 
-3.       Allow users to interact with the app with a Draw Tool, allowing custom areas to be created with solar statistics generated on the fly.
-4.       Display the total potential energy generation of biogas and solar by DA using estimates of food waste production and solar panel efficiency.
+1. Demonstrate the potential of decentralized energy in Calgary, with each DA as it’s own micro gridded system, to help promote a future of renewable energy in Canada.
+2. Provide estimates of the number of solar panels that can be installed per building, their output in kilowatt hours, the Return of Investment and the total solar energy produced by DA. 
+3. Allow users to interact with the app with a Draw Tool, allowing custom areas to be created with solar statistics generated on the fly.
+4. Display the total potential energy generation of biogas and solar by DA using estimates of food waste production and solar panel efficiency.
 
-Instructions
+**Instructions**
 
 
-Assumptions and Calculations
+**Assumptions and Calculations**
 
 The application uses assumptions and averages to estimate the number of solar panels a building can support, the energy generated from these panels, installation costs and the Return Of Investment. For biogas, the average waste a person produces was used to calculate the total waste of a DA.
 

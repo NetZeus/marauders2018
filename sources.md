@@ -30,15 +30,20 @@
 <a href = 'https://energypedia.info/wiki/Electricity_Generation_from_Biogas
 '>Biogas Conversion from Waste</a>
 
-<a href = ' https://www.biogasworld.com/biogas-faq/
-'>Energy from Biogas</a>
+<a href = ' https://www.biogasworld.com/biogas-faq/'>Energy from Biogas</a>
 
  **R Packages - For Data Analysis**
- <a href = 'https://github.com/ropensci/stplanr'>stplanr</a> 
+ 
+ <a href = 'https://github.com/ropensci/stplanr'>stplanr</a>
+ 
  <a href = 'http://neondataskills.org/R-package/rgdal/'>rgdal</a>
+ 
  <a href = 'https://rstudio.github.io/leaflet/'>leaflet</a>
+ 
  <a href = 'https://shiny.rstudio.com/'>Shiny</a>
+ 
  <a href = 'https://github.com/cran/RColorBrewer'>RColorBrewer</a>
  
 **Icons**
+
 <a href = 'https://www.flaticon.com/'>Flaticon images</a>

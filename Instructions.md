@@ -5,8 +5,22 @@
 3. Allow users to interact with the app with a Draw Tool, allowing custom areas to be created with solar statistics generated on the fly.
 4. Display the total potential energy generation of biogas and solar by DA using estimates of food waste production and solar panel efficiency.
 
-**Instructions**
+**Execute the App**
+1. Download or clone the repository
+2. Once complete, go to 'Static' folder and click on 'index.html' and from there shows the landing page with direct links to the two apps developed. 
+3. In the landing page, under "Explore" tab, there are two app services - one written in R via the Shiny package and the other in pure HTML, CSS, JavaScript. 
 
+**1st Service: Explore Neighborhood Matrices**
+1. Hover over the blue centroids, click on it, and a popup will disclose the DA information. 
+2. Copy the DA information and paste it in the 'Pick Your DA First!' panel. The app will direct you to the specific neighborhood. 
+3. You will now see a matrix of lines connecting to the addresses in the DA. The default field - 'Panels' - displays the potential amount of panels that may be installed on the rooftops. You can change the field to "Current Output", which displays the potential amount of solar energy that may be produced with current solar technology (265 watts per panel). The other field - "Max. Potential" - illustrates the maximum amount of solar energy that can be produced based on solar maximum of watts per sq. meter, assuming solar panels are more efficient (i.e > 1 kWh per panel). Any of these fields will change the display and you can click on a line to get a more precise estimate value. 
+
+**2nd Service: Explore Building Potential**
+1. The mainpage displays a choropleth map of potential energy produced with solar and biogas combined in megawatt hours (MWh). Hover over the map and a popup will automatically display the following information:  1) DAUID, 2) Population, 3) Biogas & Solar output, and 4) the potential energy ratio (%).
+2. On the hover popup, click on the DAUID url link and it will directly link you to the selected neighborhood. 
+3. The selected DA will show the DA boundary and buildings. For micro-details, click on any of the rooptop buildings and a popup will disclose statistics such as roof area, # of solar panels that can be installed, current potential solar energy, maximum solar energy per sq. meter, and potential solar energy to be captured with very efficient solar panels (i.e. > 1 kWh per panel). 
+4. Another cool feature is to use the draw tool and create your own area in your backyard. Click on the draw tool and follow the graphical instructions. 
+5. Once done, click 'Finish Measurement' or double-click over the area and a popup will display the solar area, the amount of solar panels, current solar energy output (kWh), and the return of investment (ROI).  
 
 **Assumptions and Calculations**
 

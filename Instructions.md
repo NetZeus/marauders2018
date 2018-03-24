@@ -8,7 +8,7 @@ Goals of App
 Instructions
 
 
-**Assumptions and Calculations**
+Assumptions and Calculations
 
 The application uses assumptions and averages to estimate the number of solar panels a building can support, the energy generated from these panels, installation costs and the Return Of Investment. For biogas, the average waste a person produces was used to calculate the total waste of a DA.
 
